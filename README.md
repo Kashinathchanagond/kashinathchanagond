@@ -1,5 +1,5 @@
 # 💫 About Me:
-* 💻 I’m currently working on data analysis projects and building my portfolio website.<br>* 🤝 I’m looking to collaborate on Python, SQL, and data visualization projects.<br>* 💡 I’m looking for help with advanced machine learning deployment and scalable data pipelines.<br>* 📈 I’m currently learning advanced data analytics, Power BI, and cloud computing architectures.<br>* 💬 Ask me about Python, SQL, Excel, and turning raw data into actionable insights.<br>* ⚡ Fun fact: I love transforming messy, unstructured datasets into clean dashboards that tell a clear story
+ 💻 I’m currently working on data analysis projects and building my portfolio website.<br>* 🤝 I’m looking to collaborate on Python, SQL, and data visualization projects.<br>* 💡 I’m looking for help with advanced machine learning deployment and scalable data pipelines.<br>* 📈 I’m currently learning advanced data analytics, Power BI, and cloud computing architectures.<br>* 💬 Ask me about Python, SQL, Excel, and turning raw data into actionable insights.<br>* ⚡ Fun fact: I love transforming messy, unstructured datasets into clean dashboards that tell a clear story
 
 
 ## 🌐 Socials:
